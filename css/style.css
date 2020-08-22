@@ -2,6 +2,7 @@ h2 {
 	font-family: "Lucida Console", Monaco, monospace;
 	text-align: center;
 }
+
 p {
 	width: 90%;
 	margin-right: auto;
@@ -13,6 +14,7 @@ p {
 .container{
     width: 100%;
 }
+
 .container ul li{
     float:left;
     list-style: none;
@@ -24,14 +26,14 @@ p {
     box-sizing: border-box;
 }
 
-
 .container ul li .bottom{
     width: 100%;
     height:50px;
     color:black;
-    font-size: 20px;
+    font-size: 15px;
    
 }
+
 .bottomp{
     width: 50%;
     height:50px;
@@ -41,6 +43,7 @@ p {
    text-align:center;
    float: right;
 }
+
 .bottomp2{
     width: 50%;
     height:50px;
@@ -50,6 +53,7 @@ p {
    text-align:center;
    float: right;
 }
+
 .bottomp3{
     width: 50%;
     height:50px;
@@ -65,4 +69,4 @@ p {
         width:40%;
         margin-left: 40px;
          
-}
+    }
